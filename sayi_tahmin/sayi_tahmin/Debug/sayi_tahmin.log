@@ -1,0 +1,3 @@
+﻿  sayi_tahmin.cpp
+C:\Users\omarg\Documents\all_\bas lan bas\sayı tahmin\sayi_tahmin\sayi_tahmin\sayi_tahmin.cpp(66,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  sayi_tahmin.vcxproj -> C:\Users\omarg\Documents\all_\bas lan bas\sayı tahmin\sayi_tahmin\Debug\sayi_tahmin.exe
